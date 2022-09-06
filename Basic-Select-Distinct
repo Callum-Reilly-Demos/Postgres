@@ -1,0 +1,3 @@
+SELECT DISTINCT release_year from film;
+
+#returns only 2006 as all films in the database were released in 2006
